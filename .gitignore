@@ -1,3 +1,10 @@
+# macOS + editor
+.DS_Store
+.vscode/
+
+# Build output
+build/
+
 # Prerequisites
 *.d
 
